@@ -9,8 +9,8 @@ const Contact = () => {
         <div className="socials-container">
             {/* <a href="#"><Icons.facebook /></a>
             <a href="#"><Icons.instagram /></a> */}
-            <a href="#"><Icons.github /></a>
-            <a href="#"><Icons.linkedin /></a>
+            <a href="https://github.com/drcross93"><Icons.github /></a>
+            <a href="www.linkedin.com/in/devontay-cross"><Icons.linkedin /></a>
             {/* <a href="#"><Icons.x /></a> */}
         </div>
     </section>
