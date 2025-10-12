@@ -6,14 +6,7 @@ const About = () => {
     <section id="about" className="about divider">
       <h2>About Me</h2>
       <p>
-        Combining the drive of an entrepreneur, the discipline of a professional
-        athlete, the knowledge of a health sciences college graduate, and the
-        technical skills of an IT developer, I am a multi-faceted individual
-        with a passion for making a difference in both my personal and
-        professional life. Whether it's through developing cutting-edge
-        technology solutions, promoting healthy living, or pushing the
-        boundaries of what's possible, I am always striving for growth and
-        success.
+        I’m a former professional athlete turned developer and founder who’s passionate about building things that make a difference. My background in Health Sciences taught me how systems work, and my time in sports taught me how to push limits, stay disciplined, and lead teams under pressure. Now, I apply that same mindset to technology—creating clean, impactful software and user experiences that solve real problems. Whether I’m coding, designing, or leading a project, I’m driven by curiosity, growth, and a genuine desire to turn ideas into something that moves people forward.
       </p>
       <Link href="#">Download my Resume</Link>
     </section>
